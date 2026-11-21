@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tej7app.co.in/sitemap.xml
